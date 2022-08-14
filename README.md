@@ -11,9 +11,8 @@ I'm a Cloud Engineer(in-view), and a Product Designer, who currently seeks inter
 - 🌱 I’m currently learning JavaScript and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Engineer, or Product Design, UI/UX (Intern or Junior level).
-- 📫 You can [view my resume](#https://docs.google.com/document/d/1RV9UUMQq-_MfOyzjtHvLQjyz1bafqaeoj1YaFbe02bg/edit?usp=sharing) and contact me by emailing Opeyemimessi@gmail.com
+- 📫 You can [view my resume](https://docs.google.com/document/d/1RV9UUMQq-_MfOyzjtHvLQjyz1bafqaeoj1YaFbe02bg/edit?usp=sharing) and contact me by emailing Opeyemimessi@gmail.com
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
+ ------------- | ------------- |
