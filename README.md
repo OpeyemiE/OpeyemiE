@@ -15,4 +15,3 @@ I'm a Cloud Engineer(in-view), and a Product Designer, who currently seeks inter
 
 ---
 
- ------------- | ------------- |
